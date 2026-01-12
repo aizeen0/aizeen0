@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**aizeen0/aizeen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎮 Mohamed Geawhari — Game Designer
 
-Here are some ideas to get you started:
+Hi! I'm a passionate **Game Designer & Level Designer** with experience in **Game Design, Level Design, and 3D Design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Game Designer & Level Designer  
+- Experience in **3D Models Design**  
+- I work on building immersive worlds, gameplay experiences, and strong visual atmosphere  
+- Focused on creativity, player experience, and level flow
+
+## 🛠️ Skills
+- Game Design  
+- Level Design  
+- 3D Modeling  
+- World Building  
+- Player Experience Design  
+
+## 📂 Projects
+Some of my main projects:
+- 🌲 **Forest Guard**  
+- 🧟 **EVAC Z**  
+- 🏰 **Dark Knight**  
+
+More projects coming soon.
+
+## 📫 Contact
+- Instagram: **@mohamed_geawhari**
+
+---
+🎯 Always learning. Always creating. Always improving.
+
