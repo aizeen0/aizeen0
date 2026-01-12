@@ -1,6 +1,30 @@
 ## Hi there 👋
-# 💫 About Me:
-# 🎮 Mohamed Geawhari — Game Designer & Developer<br><br>Hi! I'm a passionate **Game Designer, Level Designer, and Gameplay Programmer** with experience across multiple engines and languages.  <br><br>## 🚀 About Me<br>- **Game & Level Design**: creating immersive worlds and engaging gameplay experiences  <br>- **3D Design**: modeling, environment setup, and visual storytelling  <br>- **Programming & Systems**: implementing gameplay mechanics, AI, and multiplayer systems  <br><br>## 🛠️ Skills & Technologies<br>- **Game Engines**: Unity, Godot, Unreal Engine  <br>- **Programming Languages**: C++, C#, Python, Go, Java, C, HTML  <br>- **Design & Development**: Gameplay Programming, Level Design, 3D Modeling, World Building, Player Experience  <br><br>## 📂 Projects<br>Some of my main projects:  <br>- 🌲 **Forest Guard**  <br>- 🧟 **EVAC Z**  <br>- 🏰 **Dark Knight**  <br><br>## 📫 Contact<br>- Instagram: **@mohamed_geawhari**  <br><br>---<br>🎯 Always creating, coding, and improving games.<br>
+# 🎮 Mohamed Geawhari — Game Designer & Developer
+
+Hi! I'm a passionate **Game Designer, Level Designer, and Gameplay Programmer** with experience across multiple engines and languages.  
+
+## 🚀 About Me
+- **Game & Level Design**: creating immersive worlds and engaging gameplay experiences  
+- **3D Design**: modeling, environment setup, and visual storytelling  
+- **Programming & Systems**: implementing gameplay mechanics, AI, and multiplayer systems  
+
+## 🛠️ Skills & Technologies
+- **Game Engines**: Unity, Godot, Unreal Engine  
+- **Programming Languages**: C++, C#, Python, Go, Java, C, HTML  
+- **Design & Development**: Gameplay Programming, Level Design, 3D Modeling, World Building, Player Experience  
+
+## 📂 Projects
+Some of my main projects:  
+- 🌲 **Forest Guard**  
+- 🧟 **EVAC Z**  
+- 🏰 **Dark Knight**  
+
+## 📫 Contact
+- Instagram: **@mohamed_geawhari**  
+
+---
+🎯 Always creating, coding, and improving games.
+
 
 
 ## 🌐 Socials:
