@@ -1,33 +1,28 @@
 ## Hi there 👋
 
-# 🎮 Mohamed Geawhari — Game Designer
+# 🎮 Mohamed Geawhari — Game Designer & Developer
 
-Hi! I'm a passionate **Game Designer & Level Designer** with experience in **Game Design, Level Design, and 3D Design**.
+Hi! I'm a passionate **Game Designer, Level Designer, and Gameplay Programmer** with experience across multiple engines and languages.  
 
 ## 🚀 About Me
-- Game Designer & Level Designer  
-- Experience in **3D Models Design**  
-- I work on building immersive worlds, gameplay experiences, and strong visual atmosphere  
-- Focused on creativity, player experience, and level flow
+- **Game & Level Design**: creating immersive worlds and engaging gameplay experiences  
+- **3D Design**: modeling, environment setup, and visual storytelling  
+- **Programming & Systems**: implementing gameplay mechanics, AI, and multiplayer systems  
 
-## 🛠️ Skills
-- Game Design  
-- Level Design  
-- 3D Modeling  
-- World Building  
-- Player Experience Design  
+## 🛠️ Skills & Technologies
+- **Game Engines**: Unity, Godot, Unreal Engine  
+- **Programming Languages**: C++, C#, Python, Go, Java, C, HTML  
+- **Design & Development**: Gameplay Programming, Level Design, 3D Modeling, World Building, Player Experience  
 
 ## 📂 Projects
-Some of my main projects:
+Some of my main projects:  
 - 🌲 **Forest Guard**  
 - 🧟 **EVAC Z**  
 - 🏰 **Dark Knight**  
 
-More projects coming soon.
-
 ## 📫 Contact
-- Instagram: **@mohamed_geawhari**
+- Instagram: **@mohamed_geawhari**  
 
 ---
-🎯 Always learning. Always creating. Always improving.
+🎯 Always creating, coding, and improving games.
 
